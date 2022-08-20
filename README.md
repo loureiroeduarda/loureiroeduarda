@@ -4,4 +4,4 @@ Hey! Me chamo Eduarda 👋
 
 :rocket: Minha aventura começou com JavaScript.
 
-:world_map: E agora estou desbravando orientação a objetos no Java.
+:world_map: E agora estou desbravando orientação e objetos no Java.
